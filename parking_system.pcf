@@ -1,0 +1,13 @@
+set_io clk R9
+set_io reset_n B11
+set_io sensor_entrance B10
+set_io sensor_exit A10
+set_io pushbutton_0 B4
+set_io pushbutton_1 B5
+set_io digit_out[0] A5
+set_io digit_out[1] B7
+set_io digit_out[2] B8
+set_io digit_out[3] D8
+set_io RED_LED C3
+set_io GREEN_LED B3
+set_io IDLE_LED A11
